@@ -153,6 +153,7 @@ Master 1 AI - Group 3
 
 ## 📄 License
 
+The code of this project is released under the [MIT License](LICENSE).
 
 ---
 
