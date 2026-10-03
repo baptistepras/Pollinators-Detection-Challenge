@@ -149,13 +149,7 @@ The challenge focuses on **binary classification** of image sequences to detect 
 
 ## 👥 Contributors
 
-Master 1 AI - Group 3
-
----
-
-## 📄 License
-
-The code of this project is released under the [MIT License](LICENSE).
+Master 1 AI - Group 3: Li ZEYING, Charlotte ZUOLONG, Baptiste PRAS, Martin LEIVA, Vladimir HERRERA-NATIVA, Javier PENA-CASTANO
 
 ---
 
