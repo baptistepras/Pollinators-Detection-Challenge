@@ -6,6 +6,8 @@ Master 1 AI challenge creation and resolution - Pollinator Detection Project
 
 This repository contains a complete machine learning challenge focused on **Pollinator Detection** using image sequence data. The project is designed to be deployed on Codabench and includes all necessary components for participants to understand, develop, and submit their solutions.
 
+⚠️ Warning : Our data being private, it is not available here.
+
 ---
 
 ## 🗂️ Repository Structure
