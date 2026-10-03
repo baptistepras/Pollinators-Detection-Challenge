@@ -1,10 +1,5 @@
 # Input Data
-Input Data consists of Train Data, Train Labels, and Test Data. Test Labels are not included here. Input Data is accessed by ingestion program to do some training, produce predictions and save them.
 
-Since our data is private, it isn't accessible anymore.
+The data given to the ingestion program: `train_data.h5`, `train_labels.npy` and `test_data.h5`. The test labels are kept apart in `reference_data/`.
 
-train_data.h5: .
-
-train_labels.npy: .
-
-test_data.h5: hidden so that participants can't find it.
+For data confidentiality reasons, these files are not included in this repository.

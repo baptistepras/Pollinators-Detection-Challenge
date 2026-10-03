@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Competition_Bundle/*.zip
+Starting_Kit/data/*.h5
+Starting_Kit/data/*.npy

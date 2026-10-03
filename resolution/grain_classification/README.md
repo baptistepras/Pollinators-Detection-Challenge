@@ -1,3 +1,10 @@
-`model.py` was our first upgraded submission and was based on the baseline given in the challenge of group 2 about grain classifcation.
+# Grain Classification
 
-`model1.py` was our second upgraded submission (and best one as of today) and is a totally different architecture for the challenge of group 2.
+Our solutions to the grain variety classification challenge (8 classes, RGB images).
+
+| File | Content |
+| --- | --- |
+| `model.py` | First improved submission, built on the baseline of the challenge |
+| `model1.py` | Second submission and our best one: a ResNet18 written from scratch, without torchvision |
+| `analyze1.py`, `analyze2.py` | Analysis of the two submissions: confidence interval, confusion matrix, convergence |
+| `*.png` | Figures produced by the analysis scripts |
