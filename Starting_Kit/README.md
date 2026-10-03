@@ -14,6 +14,8 @@ The notebook is designed to be self-contained and easy to run, even for users di
 When executing the notebook, the required dataset is automatically downloaded if it is not already present on your system.
 No manual setup is needed: as long as you run the cells in order, the notebook will check for the data locally and retrieve it if necessary. For quick experimentation, the script allows you to charge only a fraction of the dataset on the RAM to execute the rest of the cells.
 
+⚠️ Warning : Our data being private, it is not available on here anymore.
+
 ---
 
 ## Dataset Structure
